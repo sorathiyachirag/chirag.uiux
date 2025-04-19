@@ -1,0 +1,131 @@
+.wireframe-12,
+.wireframe-12 * {
+  box-sizing: border-box;
+}
+.wireframe-12 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.fc-98-d-86-e-2801-4-c-33-9-c-5-d-41-a-8-bed-515-a-8-1 {
+  width: 1792px;
+  height: 1024px;
+  position: absolute;
+  left: -228px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1792/1024;
+}
+.d-3-f-4-f-28104-ca-19-a-2-b-199-b-52-a-8-b-9208-a-1-1 {
+  opacity: 0.8;
+  width: 1440px;
+  height: 631px;
+  position: absolute;
+  left: 0px;
+  top: 196px;
+  object-fit: cover;
+  aspect-ratio: 1440/631;
+}
+._146-c-64-ec-39-c-0-4-f-1-b-892-a-43-b-916619-c-83-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 1340px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.skill-based-charity-platform {
+  color: #000000;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 150px;
+  font-weight: 400;
+  position: absolute;
+  left: 29px;
+  top: 269px;
+  width: 789px;
+  height: 404px;
+}
+.next {
+  color: #d0d0d0;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 1199px;
+  top: 923px;
+  width: 167px;
+  height: 61px;
+}
+.rectangle-1 {
+  background: #354f63;
+  opacity: 0.9;
+  width: 1308px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-13 {
+  background: #000000;
+  width: 219px;
+  height: 51px;
+  position: absolute;
+  left: 150px;
+  top: 24px;
+}
+.rectangle-14 {
+  background: #000000;
+  width: 219px;
+  height: 51px;
+  position: absolute;
+  left: 544px;
+  top: 24px;
+}
+.rectangle-15 {
+  background: #000000;
+  width: 219px;
+  height: 51px;
+  position: absolute;
+  left: 938px;
+  top: 24px;
+}
+.home {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 150px;
+  top: 23px;
+  width: 219px;
+  height: 52px;
+}
+.login {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 544px;
+  top: 23px;
+  width: 219px;
+  height: 52px;
+}
+.contents {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 938px;
+  top: 23px;
+  width: 219px;
+  height: 52px;
+}

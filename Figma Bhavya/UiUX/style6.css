@@ -1,0 +1,175 @@
+.wireframe-17,
+.wireframe-17 * {
+  box-sizing: border-box;
+}
+.wireframe-17 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.fc-98-d-86-e-2801-4-c-33-9-c-5-d-41-a-8-bed-515-a-8-1 {
+  width: 1792px;
+  height: 1024px;
+  position: absolute;
+  left: -228px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1792/1024;
+}
+._146-c-64-ec-39-c-0-4-f-1-b-892-a-43-b-916619-c-83-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 1340px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-1 {
+  background: #484848;
+  border-radius: 50px;
+  width: 1392px;
+  height: 90px;
+  position: absolute;
+  left: -68px;
+  top: 100px;
+}
+.skill-based-charity-platform {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 90px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+  width: 1340px;
+  height: 90px;
+}
+.png-clipart-simple-square-frame-creative-borders-blue-border-thumbnail-removebg-preview-1 {
+  width: 527px;
+  height: 527px;
+  position: absolute;
+  left: -47px;
+  top: 163px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-7 {
+  background: #cbcbcb;
+  width: 385px;
+  height: 413px;
+  position: absolute;
+  left: 23px;
+  top: 220px;
+}
+.creative-skills-draw-or-paint-a-picture-in-10-minutes-design-a-charity-themed-digital-poster-take-a-unique-photograph-that-tells-a-story {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 23px;
+  top: 233px;
+  width: 370px;
+  height: 384px;
+}
+.creative-skills-draw-or-paint-a-picture-in-10-minutes-design-a-charity-themed-digital-poster-take-a-unique-photograph-that-tells-a-story-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.creative-skills-draw-or-paint-a-picture-in-10-minutes-design-a-charity-themed-digital-poster-take-a-unique-photograph-that-tells-a-story-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 39px;
+  font-weight: 400;
+}
+.creative-skills-draw-or-paint-a-picture-in-10-minutes-design-a-charity-themed-digital-poster-take-a-unique-photograph-that-tells-a-story-span3 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.rectangle-72 {
+  background: #cbcbcb;
+  width: 385px;
+  height: 413px;
+  position: absolute;
+  left: 1027px;
+  top: 220px;
+}
+.png-clipart-simple-square-frame-creative-borders-blue-border-thumbnail-removebg-preview-12 {
+  width: 527px;
+  height: 527px;
+  position: absolute;
+  left: 957px;
+  top: 163px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.png-clipart-simple-square-frame-creative-borders-blue-border-thumbnail-removebg-preview-2 {
+  width: 527px;
+  height: 527px;
+  position: absolute;
+  left: 456px;
+  top: 512px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.rectangle-8 {
+  background: #cbcbcb;
+  width: 385px;
+  height: 413px;
+  position: absolute;
+  left: 527px;
+  top: 569px;
+}
+.performance-skills-sing-or-play-an-instrument-for-a-live-audience-perform-a-dance-routine-and-challenge-others-do-a-stand-up-comedy-set-for-donations {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 1036px;
+  top: 233px;
+  width: 370px;
+  height: 384px;
+}
+.performance-skills-sing-or-play-an-instrument-for-a-live-audience-perform-a-dance-routine-and-challenge-others-do-a-stand-up-comedy-set-for-donations-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.performance-skills-sing-or-play-an-instrument-for-a-live-audience-perform-a-dance-routine-and-challenge-others-do-a-stand-up-comedy-set-for-donations-span2 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.technical-skills-code-a-simple-app-or-website-for-a-cause-solve-a-programming-challenge-in-a-given-time-fix-a-bug-in-an-open-source-project {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 527px;
+  top: 578px;
+  width: 385px;
+  height: 461px;
+}
+.technical-skills-code-a-simple-app-or-website-for-a-cause-solve-a-programming-challenge-in-a-given-time-fix-a-bug-in-an-open-source-project-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.technical-skills-code-a-simple-app-or-website-for-a-cause-solve-a-programming-challenge-in-a-given-time-fix-a-bug-in-an-open-source-project-span2 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 33px;
+  font-weight: 400;
+}
