@@ -1,0 +1,154 @@
+.wireframe-15,
+.wireframe-15 * {
+  box-sizing: border-box;
+}
+.wireframe-15 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.fc-98-d-86-e-2801-4-c-33-9-c-5-d-41-a-8-bed-515-a-8-1 {
+  width: 1792px;
+  height: 1024px;
+  position: absolute;
+  left: -228px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1792/1024;
+}
+._146-c-64-ec-39-c-0-4-f-1-b-892-a-43-b-916619-c-83-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 1340px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.button-removebg-preview-1 {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 1140px;
+  top: 811px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.next {
+  color: #d0d0d0;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 1199px;
+  top: 923px;
+  width: 167px;
+  height: 61px;
+}
+.rectangle-1 {
+  background: #484848;
+  border-radius: 50px;
+  width: 1392px;
+  height: 90px;
+  position: absolute;
+  left: -68px;
+  top: 100px;
+}
+.challenges-of-charity-platform {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Italianno-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+  width: 1340px;
+  height: 90px;
+}
+.pngimg-com-sticky-note-png-18964-1 {
+  width: 915px;
+  height: 914px;
+  position: absolute;
+  left: -68px;
+  top: 128px;
+  object-fit: cover;
+  aspect-ratio: 915/914;
+}
+.pngimg-com-sticky-note-png-18964-2 {
+  width: 915px;
+  height: 914px;
+  position: absolute;
+  left: 628px;
+  top: 128px;
+  object-fit: cover;
+  aspect-ratio: 915/914;
+}
+._1-trust-transparency-challenge-donors-may-hesitate-if-they-are-unsure-how-their-money-is-being-used-solution-implement-real-time-donation-tracking-transparent-reports-and-verification-systems-to-ensure-credibility {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 91px;
+  top: 345px;
+  width: 556px;
+  height: 369px;
+}
+._1-trust-transparency-challenge-donors-may-hesitate-if-they-are-unsure-how-their-money-is-being-used-solution-implement-real-time-donation-tracking-transparent-reports-and-verification-systems-to-ensure-credibility-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+}
+._1-trust-transparency-challenge-donors-may-hesitate-if-they-are-unsure-how-their-money-is-being-used-solution-implement-real-time-donation-tracking-transparent-reports-and-verification-systems-to-ensure-credibility-span2 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 33px;
+  font-weight: 400;
+}
+._2-payment-donation-security-challenge-ensuring-secure-transactions-to-prevent-fraud-solution-use-secure-payment-gateways-blockchain-for-transparency-and-multi-layer-authentication-for-users {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 785px;
+  top: 345px;
+  width: 570px;
+  height: 369px;
+}
+._2-payment-donation-security-challenge-ensuring-secure-transactions-to-prevent-fraud-solution-use-secure-payment-gateways-blockchain-for-transparency-and-multi-layer-authentication-for-users-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 39px;
+  font-weight: 400;
+}
+._2-payment-donation-security-challenge-ensuring-secure-transactions-to-prevent-fraud-solution-use-secure-payment-gateways-blockchain-for-transparency-and-multi-layer-authentication-for-users-span2 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.next-button {
+  position: fixed;
+  right: 40px;
+  bottom: 40px;
+  background-color: #007bff;
+  color: white;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s ease;
+  z-index: 999;
+}
+
+.next-button:hover {
+  background-color: #0056b3;
+}
+ 
